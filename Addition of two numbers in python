@@ -7,4 +7,3 @@ sum = num1 + num2
 
 # Display the result
 print("Sum:", sum)
-#copyright by https://www.programiz.com/python-programming/examples/add-two-numbers
